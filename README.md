@@ -1,44 +1,46 @@
-# PathFinderVisualizer  
-[Live Demo](https://path-explorer.netlify.app)  
-[YouTube Playlist](https://www.youtube.com/watch?v=Oaf9mR9oDT8&list=PLZ92O1inS6VmlSaCzdxm5_Jf2IyJesCF4&pp=iAQB)  
+# 🧭 RouteFinder Visualizer
 
-## Overview  
-**PathFinderVisualizer** is an interactive web application developed using pure JavaScript that visualizes various pathfinding algorithms. This tool enables users to experiment with custom mazes, explore algorithmic behavior, and gain a deeper understanding of how pathfinding works in real-time.  
+🚀 [Live Demo](#) &nbsp; | 📺 [YouTube Playlist](#)
 
-## Features  
-- **Interactive Design:**  
-  - Draw walls, set start and end points with ease.  
-  - Create custom mazes or randomly generate one.  
+## 📌 Overview
 
-- **Algorithm Visualization:**  
-  - Visualize popular pathfinding algorithms such as:  
-    - Dijkstra's Algorithm  
-    - A* (A-Star) Algorithm  
-    - Breadth-First Search (BFS)  
-    - Depth-First Search (DFS)  
+**RouteFinder** is a lightweight, interactive web application that visually demonstrates how popular pathfinding algorithms work. Built with pure JavaScript, HTML, and CSS, it allows users to create custom mazes and see real-time algorithm behavior in action—perfect for both learning and teaching algorithmic concepts.
 
-- **Dynamic Customization:**  
-  - Adjust visualization speed to enhance learning.  
-  - Observe how algorithms navigate around obstacles and find the shortest path.  
+## ✨ Features
 
-- **Responsive and Lightweight:**  
-  - Fully responsive for desktop and mobile devices.  
-  - Built using pure JavaScript, HTML, and CSS for optimal performance.  
+### 🎨 Interactive Design
+- Draw walls, and set start/end nodes easily.
+- Build custom mazes or generate them randomly.
 
-## Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Logic:** JavaScript for algorithm implementation and grid rendering.  
+### 🧠 Algorithm Visualization
+Visualize the working of:
+- Dijkstra’s Algorithm
+- A* (A-Star) Algorithm
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
 
-## How to Use  
-1. Visit the live demo: [Path Finder Visualizer](https://path-explorer.netlify.app).  
-2. Use the mouse to create walls by clicking and dragging on the grid.  
-3. Set the **start** and **end** points by clicking on the respective nodes.  
-4. Select a pathfinding algorithm from the menu.  
-5. Click **"Visualize"** to start the animation.  
-6. Observe how the algorithm processes and finds the shortest path.  
+### ⚙️ Dynamic Customization
+- Control visualization speed.
+- Watch how algorithms handle obstacles and optimize paths.
 
-## Installation  
+### 📱 Responsive & Lightweight
+- Optimized for both desktop and mobile browsers.
+- No libraries or frameworks—just HTML, CSS, and JavaScript.
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/abhijeetSinghRajput/pathFinderVisualizer.git
+## 🛠️ Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Core Logic**: Pure JavaScript for algorithm execution and grid rendering
+
+## 🧪 How to Use
+1. **Visit the Live Demo**: [RouteFinder Visualizer](#)
+2. Use your mouse to:
+   - Draw walls by clicking and dragging
+   - Set start and end points
+3. Choose an algorithm from the menu.
+4. Click **"Visualize"** to watch it in action.
+
+## 🧩 Installation
+
+```bash
+git clone https://github.com/AmanTiwari19/routefinder.git
+
