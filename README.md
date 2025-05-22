@@ -16,6 +16,8 @@
 Visualize the working of:
 - Dijkstra’s Algorithm
 - A* (A-Star) Algorithm
+- Biderctional BFS
+- Greedy Best First Search
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 
