@@ -1,6 +1,6 @@
 # 🧭 RouteFinder Visualizer
 
-🚀 [Live Demo](https://routefinder07.netlify.app/) ; 
+🚀 [Live Demo](https://routefinder07.netlify.app/)
 
 ## 📌 Overview
 
